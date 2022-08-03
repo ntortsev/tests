@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "id": 0,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-718/normal/db4be0ec-f8f4-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель 718",
+      "types": [0, 1],
+      "colors": ["Черная", "Белая", "Красная"]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-911/normal/e7c2070d-f8f4-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель 911",
+      "types": [0],
+      "colors": ["Черная", "Красная"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-taycan/normal/253ef544-f8f5-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель Taycan",
+      "types": [0],
+      "colors": ["Белая", "Красная"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-panamera/normal/19092f4b-f8f5-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель Panamera",
+      "types": [1],
+      "colors": ["Черная", "Белая"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-macan/normal/0355d78f-f8f5-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель Macan",
+      "types": [0, 1],
+      "colors": ["Черная", "Белая"]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://files.porsche.com/filestore/image/multimedia/none/homepage-teaser-icc-cayenne-e3/normal/ef4d48a8-f8f4-11eb-80db-005056bbdc38;sO;twebp/porsche-normal.webp",
+      "name": "Модель Cayenne",
+      "types": [0],
+      "colors": ["Черная", "Белая", "Красная"]
+    }
+  ]
+}
